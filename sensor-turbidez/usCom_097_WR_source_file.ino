@@ -8,6 +8,7 @@
 
    Data: Agosto de 2018
 
+   Vídeo para consulta: https://www.youtube.com/watch?v=BxOh81CjtuU&t=252
 
    A turbidez pode ser entendida como a medida do espalhamento 
    de luz produzido pela presença de partículas em suspensão ou coloidais, 

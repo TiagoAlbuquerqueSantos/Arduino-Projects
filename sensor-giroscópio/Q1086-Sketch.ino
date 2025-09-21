@@ -1,4 +1,5 @@
 /*
+  Vídeo para consulta: https://www.youtube.com/watch?v=ijiZ_UyChbs
   Sketch: Controle de giro - MPU6050
   Author: Brincando com Ideias
 */
